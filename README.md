@@ -8,7 +8,11 @@
 ---
 
 ### 🛠️ Projects I've Worked On
-- **[Project Name 1](https://github.com/your-username/project-1)** — Brief 1-sentence description of what it does and the main tech stack used (e.g., React, Express, Firebase).
+- **[Stripe_Integration_ImageApp](https://github.com/Githubuser1708/Stripe_payment_PhotoCreationApp)**
+  Cinematic_Photo_Creation - Vibe coded App (Photo Creation) via Google ai Studio, integrated Stripe Payment on per Download basis. 
+
+
+
 - **[Project Name 2](https://github.com/your-username/project-2)** — Brief description focusing on key features or payment/auth integrations.
 - **[Project Name 3](https://github.com/your-username/project-3)** — Key highlight, algorithm implementation, or utility tool you built.
 
