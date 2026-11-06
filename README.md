@@ -9,7 +9,9 @@
 
 ### 🛠️ Projects I've Worked On
 - **[Stripe_Integration_ImageApp](https://github.com/Githubuser1708/Stripe_payment_PhotoCreationApp)**
-  Cinematic_Photo_Creation - Vibe Coded App (Photo Creation) via Google ai Studio, integrated Stripe Payment (via test Sandbox) on per-Download basis. 
+  Cinematic_Photo_Creation - Vibe Coded App (Photo Creation) via Google ai Studio, integrated Stripe Payment (via test Sandbox) on per-Download basis.
+  Tools used : Front end UI: Google AI Studio / Backend hosting : Google Cloud Run (Google Bucket Storage) / Stripe Account
+  I also like to explore working on per-subscription basis. 
 
 
 - **[Project Name 2](https://github.com/your-username/project-2)** — Brief description focusing on key features or payment/auth integrations.
