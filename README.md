@@ -5,8 +5,15 @@
 - 🔭 I enjoy building practical applications with commercial value and can help to solve real world problems. 
 - 🎯 Currently I am doing some on full-stack development, serverless backend integrations, and cloud architectures.
 - ⚡ Outside of core development, I enjoy designing cloud architectures, building AI agents to automate workflows, and rapid app prototyping ("vibe coding") with modern stacks.
+   
 ---
 
+### 🛠️ Projects I've Worked On
+- 🎯 Microsoft Certified: Azure AI Engineer Associate
+- 🎯 Professional Certificate in Python Programming (SMU)
+- 
+
+---
 ### 🛠️ Projects I've Worked On
 - **[Stripe_Integration_ImageApp](https://github.com/Githubuser1708/Stripe_payment_PhotoCreationApp)**
   Cinematic_Photo_Creation - Vibe Coded App (Photo Creation) via Google ai Studio, integrated Stripe Payment (via test Sandbox) on per-Download basis.
@@ -14,7 +21,7 @@
   I also like to explore working on per-subscription basis. 
 
 
-- **[Project Name 2](https://github.com/your-username/project-2)** — Brief description focusing on key features or payment/auth integrations.
+- **[MachineLearning_Algorithms](https://github.com/Githubuser1708/GoogleColabPythonScripts)** — Brief description focusing on key features or payment/auth integrations.
 
 - 
 - **[Project Name 3](https://github.com/your-username/project-3)** — Key highlight, algorithm implementation, or utility tool you built.
