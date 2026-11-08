@@ -16,7 +16,7 @@
 
 
 - **[MachineLearning_Algorithms](https://github.com/Githubuser1708/GoogleColabPythonScripts)** —
-- Various projects on machine learning algorithms in Supervised , Unsupervised Learning.
+- Various projects on machine learning algorithms in Supervised , Unsupervised Learning. For Supervised learning, there are Regression and Classifications algorithms. Regression includes Simple & Multiple models, Support Vector, K-Nearest Neighbour (kNN) etc. Classification includes Logistic Regresssion, Descison Tree, Randam Forest Classifier...Evaluation metrics are then calculated to measure the accuracy for each model, using hyper-parameter tuning to improve the accuracy of the models.. 
 
 - 
 - **[Project Name 3](https://github.com/your-username/project-3)** — Key highlight, algorithm implementation, or utility tool you built.
